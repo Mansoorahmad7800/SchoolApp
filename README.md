@@ -1,4 +1,4 @@
-# 
+# fyp_project
 
 A new Flutter project.
 
@@ -19,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # NOTE:
+## run dependencies command to get all dependencies for prject
 
 This is bisically for use of school students in Afghanistan 
 Those students who want to study but can't go to school or they don't have materials to study like books and video lectures and for
