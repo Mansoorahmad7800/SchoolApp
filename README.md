@@ -1,4 +1,4 @@
-# mansoor
+# 
 
 A new Flutter project.
 
@@ -18,9 +18,14 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-###################
-NOTE:
+# NOTE:
 
 This is bisically for use of school students in Afghanistan 
 Those students who want to study but can't go to school or they don't have materials to study like books and video lectures and for
 Those students who want to study from home they get benifit from this application.
+
+Things you need to do:
+# you just need to sign up to create your account 
+and than you can do your sign in.
+
+
